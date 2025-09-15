@@ -204,7 +204,9 @@ let taskCount = 0;
 
 
 ## OUTPUT
-![alt text](<Screenshot 2025-03-21 102654.png>)
+
+<img width="1904" height="1016" alt="image" src="https://github.com/user-attachments/assets/1b41170d-d7ca-4a21-9715-b6f0c5c76797" />
+
 
 ## RESULT
 The program for creating To-do list using JavaScript is executed successfully.
